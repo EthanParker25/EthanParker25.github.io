@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Music Releases</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table>
+        <tr>
+            <td><a href="https://music.apple.com/us/album/i-care/1724526942"><img class="albums" src="https://m.media-amazon.com/images/I/51dowskvI7L._UXNaN_FMjpg_QL85_.jpg" alt="I Care Album" /></a></td>
+            <td><a href="https://music.apple.com/us/album/i-hope-single/1777998403"><img class="albums" src="https://i.scdn.co/image/ab67616d00001e029c75db767394e10971835cc2" alt="I Hope Single" /></a></td>
+            <td><a href="https://music.apple.com/us/album/luminescentia/1753803427"><img class="albums" src="https://m.media-amazon.com/images/I/616V5u3E4mL._UXNaN_FMjpg_QL85_.jpg" alt="LUMINESCENTIA album" /></a></td>
+            <td><a href="https://music.apple.com/us/album/right-now-feat-lylarp-single/1771470082"><img class="albums" src="https://m.media-amazon.com/images/I/51LVnRzy3lL._UXNaN_FMjpg_QL85_.jpg" alt="Right Now Single" /></a></td>
+            <td><a href="https://music.apple.com/us/album/burden-feat-ryefl-single/1786729326"><img class="albums" src="https://i.scdn.co/image/ab67616d00001e020e2db2a902d451dfe362916a" alt="Burden Single" /></a></td>
+        </tr>
+        <tr>
+            <td><h4>"I Care" album. Released January 12, 2024.</h4></td>
+            <td><h4>"I Hope" single. Released November 15, 2024.</h4></td>
+            <td><h4>"LUMINESCENTIA" album. Released July 5, 2024.</h4></td>
+            <td><h4>"Right Now" single. Released October 4, 2024.</h4></td>
+            <td><h4>"Burden (feat. RyeFL)" single. Released December 25, 2024</h4></td>
+        </tr>
+    </table>
+    <a href="index.html">Home</a>
+</body>
+</html>
