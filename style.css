@@ -1,0 +1,19 @@
+body {
+background-color:seashell;
+
+}
+.aboutparagraph {
+    font-style:italic;
+    font-family:Ebrima;
+}
+.albums {
+    height: 300px;
+    width: 300px;
+    transition:1s;
+}
+    .albums:hover {
+        height: 400px;
+        width: 400px;
+    }
+.homelinks {
+}
